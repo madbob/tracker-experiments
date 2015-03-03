@@ -1,0 +1,11 @@
+# Tracker Experiments
+
+This is a collection of spare scripts and small applications to play around [Tracker](https://wiki.gnome.org/Projects/Tracker), the GNOME desktop indexer (and, above all, a semantic RDF store).
+
+The repository contains:
+
+### Mail Index
+
+Simple script to index the mails in the inbox of a given account, and some useful trick to analyze them the collected data.
+
+For more informations, visit http://blog.madbob.org/smart-data/
